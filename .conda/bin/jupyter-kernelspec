@@ -1,0 +1,10 @@
+#!/Users/mamon/Documents/GitHub/65130468_BD528_2023_final/65130468_BD528-2023_Final_Project/.conda/bin/python3.11
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from jupyter_client.kernelspecapp import KernelSpecApp
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(KernelSpecApp.launch_instance())
