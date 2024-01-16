@@ -1,0 +1,5 @@
+#!/Users/mamon/Documents/GitHub/65130468_BD528_2023_final/65130468_BD528-2023_Final_Project/.conda/bin/python3.11
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
