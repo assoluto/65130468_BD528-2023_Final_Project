@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "65130468_BD528-2023_Final_Project"
 AUTHOR_USER_NAME = "assoluto"
-SRC_REPO = "BD528_mlProject"
+SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "anurack.p@gmail.com"
 
 
