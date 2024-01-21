@@ -16,4 +16,5 @@ cloudpickle==2.0.0
 typing-extensions==4.2.0
 PyQt5==5.15.10
 PyQtWebEngine==5.15.6
+python-toolbox==1.0.11
 -e .
